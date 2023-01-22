@@ -368,7 +368,7 @@ align-items: center;
     fill: #8E8F99;
    
 }
-.customers-link:hover ,
+.customers-link:hover,
 
 .customers-link:focus {
     border: 1px solid var(--pressed-state-color);
@@ -452,7 +452,7 @@ color: var(--btn-color);
 }
 .footer-soc-link:hover,
 .footer-soc-link:focus{
-    background-color: #31D0AA;;
+    background-color: #31D0AA;
 }
 /*------------------/FOOTER--------------------*/
 
