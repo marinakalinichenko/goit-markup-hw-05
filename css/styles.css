@@ -59,13 +59,14 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.33;
 text-transform: uppercase;
-
+margin-right: 76px;
+color: var(--links-color);
 }
 
 .header-logo-studio {
 /* NAVY BLUE */
 color: var(--dark-color);
-margin-right: 76px;
+
 }
 
 
